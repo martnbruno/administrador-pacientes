@@ -39,7 +39,7 @@ function App() {
 
   return (
     <>
-      <h1>Mis Recordatorios</h1>
+      <h1>Administrar Pacientes</h1>
 
       <div className="container">
         <div className="row">
