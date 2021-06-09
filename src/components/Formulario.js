@@ -86,7 +86,7 @@ const Formulario = ({ crearCita }) => {
           type="text"
           name="propietario"
           className="u-full-width"
-          placeholder="Nombre dueño de la macota"
+          placeholder="Nombre dueño de la mascota"
           onChange={actualizarState}
           value={propietario}
         />
@@ -110,7 +110,7 @@ const Formulario = ({ crearCita }) => {
         <textarea
           name="sintomas"
           className="u-full-width"
-          placeholder="Describir sintomas"
+          placeholder="Describir síntomas.."
           onChange={actualizarState}
           value={sintomas}
         ></textarea>
